@@ -41,7 +41,9 @@
     font-size: 18px;
 }
 
-.nav-right {}
+.nav-right {
+    /* height: 30px; */
+}
 
 .content-left {
     font-family: var(--font1);
